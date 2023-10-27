@@ -5,4 +5,4 @@ Requires the following python modules to be installed: speech_recognition, gTTS,
 
 Also follow the instructions here to install the Voice Bonnet libraries: https://learn.adafruit.com/adafruit-voice-bonnet. 
 
-You can see videos of the voice assitant working on my blog post here: https://austindixon.com/making-a-voice-assistant-part-2.
+You can see videos of the voice assistant working on my blog post here: https://austindixon.com/making-a-voice-assistant-part-2.
